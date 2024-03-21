@@ -11,43 +11,18 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['525625060788', '👑 Mystic - Creador 👑', true],
-  ['525625060788', '💫 Mystic - Collaborator 1 💫', true],
-  ['525625060788', '💫 Mystic - Collaborator 2 💫', true],
-  ['525625060788', '💫 Mystic - Collaborator 3 💫', true],
-  ['525625060788', '💫 Mystic - Collaborator 4 💫', true],
-  ['525625060788', '💫 Mystic - Collaborator 5 💫', true],
-  ['525625060788', '💫 Mystic - Collaborator 6 💫', true],
-  ['525625060788', '💫 Mystic - Rey Endymion 💫', false],
-  ['525625060788', '💫 Mystic - Collaborator 8 💫', true],
-  ['525625060788','💫 Mystic - Tester Fabri115💫', true],
-  ['525625060788'],
-  ['525625060788'],
-  ['525625060788'],
-  ['525625060788'],
-  ['525625060788'],
-  ['525625060788'],
-  ['525625060788'],
-  ['525625060788'], 
-  ['525625060788'],  
-  ['525625060788'],
-  ['525625060788'],
-  ['525625060788'],
-  ['525625060788'], 
-  ['525625060788'], 
-  ['525625060788'],
-  ['525625060788']
+  ['5217711121958', '👑 Mystic - Creador 👑', true]
 ];
 
-global.suittag = ['525625060788'];
-global.prems = ['525625060788'];
+global.suittag = ['5217711121958'];
+global.prems = ['5217711121958'];
 
-global.packname = 'Sticker';
-global.author = 'Capibot Premium';
-global.wm = 'Capibot Premium';
-global.titulowm = 'CapiBot Premium';
-global.titulowm2 = `Capibot Premium`
-global.igfg = 'Capibot Premium';
+global.packname = 'Adrian';
+global.author = 'Dragneel';
+global.wm = 'Dragneel bot';
+global.titulowm = 'Dragneel bot';
+global.titulowm2 = `Dragneel bot`
+global.igfg = 'Dragneel bot';
 global.wait = '*[ ⏳ ] Cargando...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -69,14 +44,14 @@ global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
 global.wm2 = `${dia} ${fecha}\nThe Mystic - Bot`;
-global.gt = 'The Mystic - Bot';
-global.mysticbot = 'The Mystic - Bot';
-global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
-global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
+global.gt = 'Dragneel bot';
+global.mysticbot = 'Dragneel bot';
+global.md = ' ';
+global.mysticbot = ' ';
 global.waitt = '*[ ⏳ ] Cargando...*';
 global.waittt = '*[ ⏳ ] Cargando...*';
 global.waitttt = '*[ ⏳ ] Cargando...*';
-global.nomorown = '525625060788';
+global.nomorown = '5217711121958';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
