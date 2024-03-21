@@ -21,7 +21,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const taguser = '@' + m.sender.split('@s.whatsapp.net')[0];
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
-    const str = `𝙏𝙃𝙀 𝙈𝙔𝙎𝙏𝙄𝘾 - 𝘽𝙊𝙏
+    const str = `Dragneel bot
 
  ▢ *Hola,* ${taguser}
 
@@ -45,43 +45,16 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  
  _*< SOBRE EL BOT />*_
 
-  ▢ _${usedPrefix}terminosycondiciones_
   ▢ _${usedPrefix}grupos_
   ▢ _${usedPrefix}estado_
   ▢ _${usedPrefix}infobot_
   ▢ _${usedPrefix}speedtest_
-  ▢ _${usedPrefix}donar_
+  ▢ _${usedPrefix}pagar_
   ▢ _${usedPrefix}owner_
   ▢ _${usedPrefix}script_
   ▢ _${usedPrefix}reporte *<txt>*_
-  ▢ _${usedPrefix}join *<wagp_url>*_
   ▢ _${usedPrefix}fixmsgespera_
   ▢ _bot_ (sin prefijo)
-
-
- _*< SUB-BOTS />*_
-
-  ▢ _${usedPrefix}serbot --code_
-  ▢ _${usedPrefix}serbot_
-  ▢ _${usedPrefix}deletebot_
-  ▢ _${usedPrefix}token_
-  ▢ _${usedPrefix}stop_
-  ▢ _${usedPrefix}bots_
-  ▢
-  ▢ _${usedPrefix}enable restrict_
-  ▢ _${usedPrefix}disable restrict_
-  ▢ _${usedPrefix}enable autoread_
-  ▢ _${usedPrefix}disable autoread_
-  ▢ _${usedPrefix}enable antispam_
-  ▢ _${usedPrefix}disable antispam_
-  ▢ _${usedPrefix}enable anticall_
-  ▢ _${usedPrefix}disable anticall_
-  ▢ _${usedPrefix}enable modoia_
-  ▢ _${usedPrefix}disable modoia_
-  ▢ _${usedPrefix}enable audios_bot_
-  ▢ _${usedPrefix}disable audios_bot_
-  ▢ _${usedPrefix}enable antiprivado_
-  ▢ _${usedPrefix}disable antiprivado_
   
 
  _*< JUEGOS />*_
